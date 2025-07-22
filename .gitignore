@@ -13,7 +13,6 @@
 vgcore.*
 *.sock
 *.so
-*.bin
 *.pkg.tar.xz
 *.pkg.tar.zst
 *.tar.gz
